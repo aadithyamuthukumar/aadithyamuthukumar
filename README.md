@@ -1,6 +1,6 @@
 # Hi, I'm Aadithya Muthukumar
 
-I'm a software engineer focused on backend systems, AI infrastructure, and production-ready LLM applications.
+I'm a software engineer focused on backend systems and production-ready LLM applications.
 
 I enjoy building systems around model routing, retrieval, APIs, distributed services, and developer tooling.
 
