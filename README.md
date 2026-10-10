@@ -29,4 +29,3 @@ I enjoy building systems around model routing, retrieval, APIs, distributed serv
 ## 📫 Connect With Me
 
 - LinkedIn: [linkedin.com/in/aadithya-muthukumar](https://www.linkedin.com/in/aadithya-muthukumar)
-- GitHub: [github.com/aadithyamuthukumar](https://github.com/aadithyamuthukumar)
